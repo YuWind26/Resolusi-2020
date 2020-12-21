@@ -9,5 +9,7 @@ Target yang akan dicapai di 2021
 -Dapat Membuat Aplikasi Mobile (Kotlin) Medium
 -Dapat Membuat Aplikasi Mobile (Kotlin) Hard
 -Menghasilkan Uang dari Freelance 
-  -Upwork
   -Sribulancer
+  -Projects.co.id
+  -Upwork
+
